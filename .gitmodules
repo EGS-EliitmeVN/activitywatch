@@ -21,7 +21,7 @@
 	url = https://github.com/EGS-EliitmeVN/aw-server-rust.git
 [submodule "aw-notify"]
 	path = aw-notify
-	url = https://github.com/ErikBjare/aw-notify.git
+	url = https://github.com/EGS-EliitmeVN/aw-notify.git
 [submodule "aw-watcher-input"]
 	path = aw-watcher-input
 	url = https://github.com/EGS-EliitmeVN/aw-watcher-input.git
